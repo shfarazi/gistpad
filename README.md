@@ -1,4 +1,4 @@
-# GistPad 📘
+# GistPad
 
 [![Join space](https://vslscommunitieswebapp.azurewebsites.net/badge/gistpad)](http://vslscommunitieswebapp.azurewebsites.net/join_redirect/gistpad)
 
